@@ -1,7 +1,6 @@
 // +build gofuzz
 
 package blake2b
-
 import (
 	"encoding/binary"
 )
